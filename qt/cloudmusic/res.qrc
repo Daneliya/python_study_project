@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/bar.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/歌词.png</file>
+    <file>icons/音乐列表-copy.png</file>
+    <file>icons/next.png</file>
+    <file>icons/stop.png</file>
+    <file>icons/关闭.png</file>
+    <file>icons/最大化.png</file>
+    <file>icons/最小化.png</file>
+    <file>icons/设置.png</file>
+    <file>icons/邮箱.png</file>
+    <file>icons/皮肤.png</file>
+    <file>icons/个人.png</file>
+    <file>icons/后退.png</file>
+    <file>icons/前进.png</file>
+    <file>icons/网易云音乐.png</file>
+  </qresource>
+</RCC>
