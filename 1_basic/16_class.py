@@ -3,6 +3,7 @@
 #     # 接下来是一些定义类的代码
 #     # ...
 
+# 示例一
 # 定义可爱猫猫类
 class CuteCat:
     # 构造函数，self 表示对象自身
@@ -16,6 +17,7 @@ cat1 = CuteCat()
 print(cat1.name)
 
 
+# 示例二
 # 定义可爱猫猫类，构造函数增加参数
 class CuteCat2:
     def __init__(self, cat_name):
@@ -27,6 +29,7 @@ cat1 = CuteCat2("Jojo")
 print(cat1.name)
 
 
+# 示例三
 # 定义可爱猫猫类，构造函数增加更多属性
 class CuteCat3:
     def __init__(self, cat_name, cat_age, cat_color):
